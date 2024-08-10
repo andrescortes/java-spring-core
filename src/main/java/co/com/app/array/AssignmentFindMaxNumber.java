@@ -1,4 +1,4 @@
-package co.com.app.arrays;
+package co.com.app.array;
 
 public class AssignmentFindMaxNumber {
     public static void main(String[] args) {

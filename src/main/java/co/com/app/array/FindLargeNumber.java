@@ -1,6 +1,5 @@
-package co.com.app.arrays;
+package co.com.app.array;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class FindLargeNumber {
